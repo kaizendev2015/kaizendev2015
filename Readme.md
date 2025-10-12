@@ -82,7 +82,7 @@
 
 <!-- Snake Game Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stardev2015/stardev2015/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/stardev2015/stardev2015/blob/main/github-user-contribution.svg" alt="snake" />
 </p>
 
 ---
