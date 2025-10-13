@@ -1,5 +1,9 @@
 name: generate animation
 
+# Grant write permission to GITHUB_TOKEN for pushing to branches
+permissions:
+  contents: write
+
 on:
   # run automatically every 24 hours
   schedule:
@@ -13,7 +17,6 @@ on:
     branches:
     - main
     
-  
 
 jobs:
   generate:
@@ -31,7 +34,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
