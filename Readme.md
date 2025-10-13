@@ -77,7 +77,7 @@
 
 <!-- Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stardev2015&theme=algolia&no-frame=true&column=7&margin-w=10" alt="trophy" />
+  <img src="https://github.com/stardev2015/stardev2015/blob/main/trophy.svg" alt="trophy" />
 </p>
 
 <!-- Snake Game Animation -->
