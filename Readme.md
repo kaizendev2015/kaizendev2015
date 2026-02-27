@@ -6,6 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?&logo=ruby&logoColor=white)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -19,6 +20,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs&logoColor=E0234E)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?&logo=ruby-on-rails&logoColor=white)
 ![LoopBack](https://img.shields.io/badge/-LoopBack-000?&logo=loopback)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -39,6 +41,8 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="45" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
+[![Ruby On Rails](https://skillicons.dev/icons?i=rails)](https://skillicons.dev)
+[![Ruby](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
 <code><img height="45" src="https://loopback.io/images/global/loopback-full-logo-blue.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
